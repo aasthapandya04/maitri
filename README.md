@@ -279,8 +279,8 @@ MoHFW Mother and Child Protection card · HBNC leaflet · WHO *Pregnancy, childb
 ## 👩‍💻 Team
 
 **Team:** *(add your team name)*
-- *Name 1* – role
-- *Name 2* – role
+- *Aastha Pandya* – Backend , Cloud , SQL
+- *Aafreen Khan* –  Frontend , Research , Documentation , Presentation
 
 ## 🙏 Credits
 
